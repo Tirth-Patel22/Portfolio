@@ -228,7 +228,7 @@ export default function App() {
         </section>
 
         <section id="contact" className="section pb-24">
-          <SectionTitle eyebrow="Contact" title="Let’s build something impactful together" />
+          <SectionTitle eyebrow="Contact" title="Letâ€™s build something impactful together" />
           <div className="card p-6 md:p-8">
             <p className="max-w-2xl text-slate-300">
               I am open to internships and entry-level opportunities in backend, AI/ML, and full-stack development roles.
@@ -244,7 +244,7 @@ export default function App() {
       </main>
 
       <footer className="border-t border-white/10 py-6 text-center text-xs text-slate-400">
-        <p>© {new Date().getFullYear()} Tirth Patel. Built with React and Tailwind CSS.</p>
+        <p>Â© {new Date().getFullYear()} Tirth Patel. Built with React and Tailwind CSS.</p>
       </footer>
     </>
   );
